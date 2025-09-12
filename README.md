@@ -19,5 +19,3 @@
   <img src="https://img.shields.io/badge/Perl-00709d?style=for-the-badge&logo=perl&logoColor=white"/>
   
 </div>
-
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=ubt5&color=blueviolet)
